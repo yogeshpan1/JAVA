@@ -1,6 +1,6 @@
 # JAVA
 A Java based Gym Management System for handling member registration, payments, and attendance.
-# Gym Management System 🏋️‍♂️
+# Gym Management System 🏋️‍♂️[ETERNIA GYM AND FITNESS]
 
 A **Java Swing-based Gym Management System** for managing Regular and Premium members.  
 Features include registration, payments (with discounts for premium), attendance tracking, and membership activation/deactivation.
